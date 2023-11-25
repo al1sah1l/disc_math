@@ -1,0 +1,19 @@
+.block-style{
+    display: inline-block;
+    margin-right: 60px;
+    vertical-align: top;
+}
+
+.text-style{
+    margin-top: 20px;
+    color: #0c5460;
+    border-bottom: 1px solid #0c5460;
+    width: max-content;
+}
+
+.vertex-list{
+    margin: 5px 0 5px 0;
+    width: max-content;
+    display: inline-block;
+    font-weight: bold;
+}
